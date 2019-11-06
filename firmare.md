@@ -6,7 +6,11 @@ description: Come firmare la lettera
 
 Cerchiamo di verificare tutte le firme.
 
-## Opzione 1: ho un account GitHub o sono disposto a crearlo
+## Opzione 1: ho un account Google o sono disposto a crearlo
+
+Completa [questa form](https://docs.google.com/forms/d/e/1FAIpQLSe6mgWyZVOElAio_PAVU0_la6gGh8iyS-SU-sT6JC_1lwv2cw/viewform?usp=sf_link)
+
+## Opzione 2: ho un account GitHub o sono disposto a crearlo
 
 In tal caso, puoi:
 
@@ -17,6 +21,6 @@ In tal caso, puoi:
 5. clickare su *create pull request*
 6. clickare nuovamente su *create pull request*
 
-## Opzione 2: non ho GitHub, non so cosa sia, non voglio iscrivermi
+## Opzione 3: non ho GitHub, non so cosa sia, non voglio iscrivermi
 
 Invia una email a [Danilo Pianini](mailto:danilo.pianini@unibo.it?subject=Firma%20Climate%20Change) specificando il tuo nome, cognome, e titolo.
