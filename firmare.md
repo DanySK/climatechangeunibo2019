@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Cambiamento climatico e ISA lecture
 description: Come firmare la lettera
 ---
